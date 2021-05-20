@@ -1,0 +1,27 @@
+body{
+    background-color: gold;
+    text-align: center;
+    padding: 20px;
+}
+
+img{
+    width: 400px;
+    height: 400px;
+    }
+
+h1{
+color: lime;
+padding: 10px;
+font-size: 50px;
+}
+
+h2{
+color:lime;
+padding: 10px;
+font-size: 50px;
+}
+p{
+    color:mediumblue;
+    padding: 10px;
+    font-size: 20px;
+    }
